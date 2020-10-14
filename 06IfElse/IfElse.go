@@ -32,5 +32,5 @@ func main() {
 //Observe que você não precisa de parênteses em torno das condições em Go,
 //mas as chaves são obrigatórias.
 
-//Não há if ternário (https://en.wikipedia.org/wiki/%3F:) em Go, então você precisará
-//usar uma declaração if completa, mesmo para condições básicas.
+//Não há if ternário (https://en.wikipedia.org/wiki/%3F:) ou https://pt.wikipedia.org/wiki/%3F:
+//em Go, então você precisará usar uma declaração if completa, mesmo para condições básicas.
